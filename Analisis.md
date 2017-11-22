@@ -19,6 +19,12 @@ La pedogogia a utilizar sera la misma implementada por CodeSchool, pienso se pue
 
 **Diagrama de Entidad-Relación**
 
+
+Version 1:
+
+![Alt text](https://github.com/elnikita/Escuela_de_codigo/blob/master/diagrama.jpg?raw=true "Diagrama")
+
+
 **Etapas de planeacion**
 
 **Etapas de produccion**
