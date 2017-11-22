@@ -22,6 +22,18 @@ La pedogogia a utilizar sera la misma implementada por CodeSchool, pienso se pue
 
 Version 1:
 
+Usuarios: Cambiar usuario a **estudiante**
+
+Cursos:
+
+Cursos_Niveles: Esta relacionado con la tabla [Cursos]. Un curso tiene de 1 a n niveles. "n_index" se refiere al index o posicion del nivel dentro del curso. Es decir, el nivel puede llamarse: "Nivel 1: Enteros y cadenas en el rio" pero lo que da el numero de nivel es el campo index que en este caso seria el 1. "n_idcurso" es el id del curso al que pertenece un nivel. 
+
+Cursos_niveles_capitulos:
+
+
+
+
+
 ![Alt text](https://github.com/elnikita/Escuela_de_codigo/blob/master/diagrama.jpg?raw=true "Diagrama")
 
 
