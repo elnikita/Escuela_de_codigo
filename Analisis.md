@@ -15,7 +15,7 @@ Front-end: No se tiene planeado hacer esta division o implenetar alguna tecnolog
 
 Back-end: Ruby on Rails
 
-Motor de base de datos: PostgreSQL
+Motor de bases de datos: PostgreSQL
 
 **Pedagogia**
 
